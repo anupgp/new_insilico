@@ -35,5 +35,3 @@ template<class T>
 T newinsilico::random::rand(T max) {
   return rand(0, max);
 } // function rand
-
-
