@@ -6,12 +6,6 @@
 #*.isfc
 #*.isf
 
-# Ignore build folder
-# build/
-
-# Ignore input folder
-# lib/
-
 # Ignore files ending with ~
 *.*~
 *~
