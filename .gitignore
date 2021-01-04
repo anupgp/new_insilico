@@ -1,18 +1,16 @@
 # Ignore data files will following extensions in all folders
 *.o
+*.a
 *.csv
 *.isfdp
 #*.isfc
 #*.isf
 
 # Ignore build folder
-build/
-
-# Ignore bin folder
-bin/
+# build/
 
 # Ignore input folder
-lib/
+# lib/
 
 # Ignore files ending with ~
 *.*~
