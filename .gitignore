@@ -6,15 +6,12 @@
 #*.isfc
 #*.isf
 
-<<<<<<< HEAD
 # Ignore build folder
-# build/*.o
+build/*.o
 
 # Ignore input folder
-# lib/libnew_insilico.a
+lib/libnew_insilico.a
 
-=======
->>>>>>> 8cea05b09b002f2468b2bd49d4044d3ced862718
 # Ignore files ending with ~
 *.*~
 *~
