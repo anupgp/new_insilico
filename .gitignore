@@ -7,10 +7,10 @@
 #*.isf
 
 # Ignore build folder
-# build/
+# build/*.o
 
 # Ignore input folder
-# lib/
+# lib/libnew_insilico.a
 
 # Ignore files ending with ~
 *.*~
